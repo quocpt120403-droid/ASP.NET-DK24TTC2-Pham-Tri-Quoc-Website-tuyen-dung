@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|d:\\downloadfile (1)_1\\website t\u00ECm vi\u1EC7c l\u00E0m\\tuyendungcntt-20230330t041646z-001\\tuyendungcntt\\tuyendungcntt\\views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\shared\\_layoutmain.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\home\\_viewsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\home\\_viewsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\home\\_viewlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\home\\_viewlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\recruitment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\recruitment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\employer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\employer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\recruitment\\daluu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\recruitment\\daluu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\tuyendungcntt\\views\\hosoxinviec\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F0FDD33-FDBF-4766-BA9E-009716DC2DEB}|TuyenDungCNTT\\TuyenDungCNTT.csproj|solutionrelative:tuyendungcntt\\views\\hosoxinviec\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewSearch.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\_ViewSearch.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Home\\_ViewSearch.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\_ViewSearch.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Home\\_ViewSearch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:56:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Recruitment\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Recruitment\\Index.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Recruitment\\Index.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Recruitment\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:56:31.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewLogin.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\_ViewLogin.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Home\\_ViewLogin.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\_ViewLogin.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Home\\_ViewLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:54:12.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DaLuu.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Recruitment\\DaLuu.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Recruitment\\DaLuu.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Recruitment\\DaLuu.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Recruitment\\DaLuu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:54:01.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:53:33.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Employer\\Index.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Employer\\Index.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Employer\\Index.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Employer\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:53:23.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutMain.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Shared\\_LayoutMain.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Shared\\_LayoutMain.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Shared\\_LayoutMain.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Shared\\_LayoutMain.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:51:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Web.config",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Web.config",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Web.config",
+              "RelativeToolTip": "TuyenDungCNTT\\Web.config",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-23T14:48:59.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\Home\\Search.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:56:46.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\HoSoXinViec\\Create.cshtml",
+              "RelativeDocumentMoniker": "TuyenDungCNTT\\Views\\HoSoXinViec\\Create.cshtml",
+              "ToolTip": "D:\\downloadfile (1)_1\\Website t\u00ECm vi\u1EC7c l\u00E0m\\TuyenDungCNTT-20230330T041646Z-001\\TuyenDungCNTT\\TuyenDungCNTT\\Views\\HoSoXinViec\\Create.cshtml",
+              "RelativeToolTip": "TuyenDungCNTT\\Views\\HoSoXinViec\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T14:53:55.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
